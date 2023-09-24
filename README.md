@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ChiSquare from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chisquare-ctor@deno/mod.js';
+import ChiSquare from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chisquare-ctor@v0.1.0-deno/mod.js';
 ```
 
 #### ChiSquare( \[k] )
@@ -265,7 +265,7 @@ y = chisquare.quantile( 1.9 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import ChiSquare from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chisquare-ctor@deno/mod.js';
+import ChiSquare from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chisquare-ctor@v0.1.0-deno/mod.js';
 
 var chisquare = new ChiSquare( 2.0 );
 
